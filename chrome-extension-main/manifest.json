@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "author": "Hakkı Konu",
+  "description": "A simple bookmark collection extension",
+    "version": "1.0",
+    "name": "Book Marker",
+    "permissions": ["contextMenus", "tabs","activeTab"],
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    }
+    
+}
